@@ -182,6 +182,27 @@ img {
   box-shadow: 0 4px 16px rgba(96, 165, 250, 0.35);
 }
 
+/* 语言切换按钮 */
+.lang-switch {
+  padding: 6px 14px;
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  letter-spacing: 0.5px;
+}
+
+.lang-switch:hover {
+  background: var(--bg-surface-hover);
+  color: var(--primary);
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+
 /* ============================================
    Hero Section
    ============================================ */
