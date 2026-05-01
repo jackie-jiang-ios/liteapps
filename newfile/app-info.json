@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "buildDate": "2026-04-29",
-  "fileName": "NewFile-1.0+20260429.2324.dmg",
-  "fileSizeBytes": 1755101,
-  "fileSizeFormatted": "1.7 MB",
-  "downloadUrl": "https://alight-downloads.oss-cn-hangzhou.aliyuncs.com/releases/NewFile-1.0%2B20260429.2324.dmg",
-  "githubDownloadUrl": "https://github.com/jackie-jiang-ios/newfile/releases/latest",
+  "buildDate": "2026-05-01",
+  "fileName": "NewFile-1.0-20260501.1943.dmg",
+  "fileSizeBytes": 2016232,
+  "fileSizeFormatted": "2.9 MB",
+  "downloadUrl": "https://alight-downloads.oss-cn-hangzhou.aliyuncs.com/releases/NewFile-1.0-20260501.1943.dmg",
+  "githubDownloadUrl": "https://github.com/jackie-jiang-ios/alight-website/releases/download/newfile-production-release/NewFile-1.0-20260501.1943.dmg",
   "notarize": true,
-  "environment": "production",
+  "environment": "dev",
   "sha": "local-build",
-  "updatedAt": "2026-04-29T23:24:00Z"
+  "updatedAt": "2026-05-01T19:43:00Z"
 }
